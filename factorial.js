@@ -1,4 +1,4 @@
-// Problem: factorial of a number
+// Problem: factorial of a number of any number
 
 function factorial(n) {
   let result = 1;
